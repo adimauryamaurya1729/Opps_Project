@@ -28,7 +28,7 @@ Time addTime(Time t1, Time t2) {
 }
 
 int main() {
-    Time t1(2, 45);
+    Time t1(4, 45);
     Time t2(3, 30);
     
     Time totalTime = addTime(t1, t2);
